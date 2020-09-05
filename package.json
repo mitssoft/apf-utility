@@ -1,0 +1,14 @@
+{
+  "name": "apf-utility",
+  "version": "1.0.0",
+  "description": "Array parseable files utility",
+  "main": "./lib/apf-utility.js",
+  "bin": {
+    "apfu": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mits-Soft",
+  "license": "ISC"
+}
