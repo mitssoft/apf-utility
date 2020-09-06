@@ -11,9 +11,9 @@ let arg = arguments[arguments.length - 1];
 
 let command = arguments[0];
 
-if (command == 'import') {
+if (command == 'import_apf') {
     console.log("Importing language>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-    apfu.import(arguments[1]);
+    apfu.import_apf(arguments[1]);
 } else {
     apfu.run(arg);
 }

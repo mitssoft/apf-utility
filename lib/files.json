@@ -2,5 +2,9 @@
     "jsdoc": {
         "file-name": "jsdoc.apf",
         "file-url": "https://raw.githubusercontent.com/mitssoft/apf-files/master/jsdoc.apf"
+    },
+    "javascript": {
+        "file-name": "javascript.apf",
+        "file-url": "https://raw.githubusercontent.com/mitssoft/apf-files/master/javascript.apf"
     }
 }
