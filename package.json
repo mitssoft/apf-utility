@@ -10,5 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mits-Soft",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
