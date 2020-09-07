@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-// import { apfu } from '../lib/apf-utility.js';
-const minimist = require('minimist');
 const apfu = require('../lib/apf-utility.js');
 
 console.log(process.argv);

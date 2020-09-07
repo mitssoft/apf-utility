@@ -11,5 +11,8 @@
   },
   "author": "Mits-Soft",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
